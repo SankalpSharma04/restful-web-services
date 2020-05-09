@@ -1,0 +1,9 @@
+What spring boot s not?
+1: zero code generation
+neuither an app server nor web server
+
+Features
+it embeded server lke tomcat, jetty,
+quick starter project with auto config--> web,jpa
+prod ready feature--> metrics health checks
+externalized configurtion
